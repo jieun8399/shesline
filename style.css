@@ -1,0 +1,36 @@
+body, ul, li {
+    margin:0;
+    padding:0;
+    list-style:none;
+  }
+  a {
+    color:inherit;
+    text-decoration:none;
+  }
+  .flex {
+    display:flex;
+  }
+  
+  header {
+    border:10px solid red;
+    height:122.4px;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .top-bar__menu > ul > li > a {
+    display:block;
+    padding:45px;
+  }
+  .top-bar__menu2 > ul > li > a {
+    display:block;
+    padding:45px;
+  }
+  
+  .swiper {
+    width: 100%;
+    height: 860px;
+  }
+
+  .banner {
+    width:100%;
+  }
